@@ -41,3 +41,8 @@ python examples/cartpole/cartpole_propagation.py
 ```
 
 
+## Third-party dependence
+We use [auto-LiRPA](https://github.com/Verified-Intelligence/auto_LiRPA) to implement the bound propagation method to bound NN outputs.
+
+We use [pympc](https://github.com/TobiaMarcucci/pympc/tree/master) mainly for operations on polyhedron.
+
